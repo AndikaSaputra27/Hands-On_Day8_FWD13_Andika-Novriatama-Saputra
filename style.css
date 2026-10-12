@@ -1,0 +1,25 @@
+body {
+  font-family: "Times New Roman", serif;
+  background-color: white;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: rgb(225, 0, 255);
+}
+
+h3 {
+  color: rgb(68, 7, 235);
+}
+
+li {
+  color: rgb(17, 17, 17);
+  margin-bottom: 8px;
+}
+
+.address {
+  color: rgb(2, 135, 224);
+}
